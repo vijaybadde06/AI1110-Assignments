@@ -1,2 +1,2 @@
 # AI1110-Assignments
-Programming Assignments from the course AI1110
+Assignments from the course AI1110, mostly consisting of Programming Assignments.
